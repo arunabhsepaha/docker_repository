@@ -4,3 +4,6 @@
 [submodule "dockerization_of_student_registration_form_app_war_java_mysql"]
 	path = dockerization_of_student_registration_form_app_war_java_mysql
 	url = https://github.com/arunabhsepaha/dockerization_of_student_registration_form_app_war_java_mysql.git
+[submodule "dockerization_of_sb_microservices_prometheus_grafana"]
+	path = dockerization_of_sb_microservices_prometheus_grafana
+	url = https://github.com/arunabhsepaha/dockerization_of_sb_microservices_prometheus_grafana.git
