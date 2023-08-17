@@ -1,3 +1,6 @@
 [submodule "dockerization_of_SB_REST_ERAIL_API_APP"]
 	path = dockerization_of_SB_REST_ERAIL_API_APP
 	url = https://github.com/arunabhsepaha/dockerization_of_SB_REST_ERAIL_API_APP.git
+[submodule "dockerization_of_student_registration_form_app_war_java_mysql"]
+	path = dockerization_of_student_registration_form_app_war_java_mysql
+	url = https://github.com/arunabhsepaha/dockerization_of_student_registration_form_app_war_java_mysql.git
